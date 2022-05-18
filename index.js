@@ -1,5 +1,3 @@
-const { add, subtract, divide, multiply } = require('./calculator');
-
 /**
  * @file index.js is the root file for this example app
  * @author Chinnarasu
@@ -90,5 +88,3 @@ const person1 = new Person({
   name: 'John Doe',
   age: 30
 });
-
-console.log(add(20, 30));
