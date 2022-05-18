@@ -3,7 +3,6 @@ const { add, subtract, divide, multiply } = require('./calculator');
 /**
  * @file index.js is the root file for this example app
  * @author Chinnarasu
- * @see <a href="#">Github</a>
  */
 
 /**
